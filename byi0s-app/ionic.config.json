@@ -1,0 +1,7 @@
+{
+  "name": "byi0s-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
